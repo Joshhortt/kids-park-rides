@@ -1,0 +1,33 @@
+  body {
+   background: #f5d9d5;
+   font-family: "Nunito", sans-serif;
+   color: #ea1c2c;
+   font-size: 1.2rem;
+   font-weight: 100;
+   text-align: center;
+}
+
+h1  {
+  font-size: 1.5rem;
+}
+
+h2  {
+  font-size: 1.4rem;
+  color: green;
+}
+
+.welcome  {
+  margin-top: 100px;
+}
+
+.start-hidden{
+  display: none;
+}
+
+.container  {
+  margin-bottom: 100px;
+}
+
+.btn  {
+  margin-bottom: 15px;
+}
